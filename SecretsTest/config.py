@@ -9,9 +9,6 @@ AWS_ACCESS_KEY_ID = 'AKIAIWSXFHRM7F6Z3NWQ'
 ## AWS Secret Access Key
 AWS_ACCESS_SECRET_KEY = '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'
 
-## AWS MWS Auth Token
-MWS_AUTH_TOKEN = 'amzn.mws.f90f3ce6-9b5a-26a7-9a87-4ff8052be2ec'
-
 # Google
 ## GCP Credentials
 GCP_PRIVATE_KEY_ID = 'c4c474d61701fd6fd4191883b8fea9a8411bf771'
