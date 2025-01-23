@@ -1,3 +1,4 @@
 .env
 client_main.dist/
 .secret-scan/
+.npmrc
